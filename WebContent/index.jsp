@@ -8,7 +8,7 @@
 </head>
 <body>
 		
-		<h1>haole</h1>
-		<h2>liu改</h2>
+		<p>haole</p>
+		<p>liu改</p>
 </body>
 </html>
